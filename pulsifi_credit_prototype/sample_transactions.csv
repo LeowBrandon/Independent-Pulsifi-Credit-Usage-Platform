@@ -1,0 +1,7 @@
+Date,Transaction ID,Type,Client,Project,Reference,Units,Status,Source
+2026-09-12,TX-25018,Usage,ABC Ltd,Graduate Hiring,P-10291,-5,Confirmed,System Email
+2026-09-12,TX-25017,Usage,XYZ Group,Leadership Bench,P-10292,-10,Confirmed,System Email
+2026-09-11,TX-25016,Usage,Acme Holdings,Manager Pipeline,P-10294,-5,Pending,Downloaded Report
+2026-09-10,TX-25015,Adjustment,ABC Ltd,Graduate Hiring,ADJ-084,20,Exception,Manual
+2026-09-01,TX-25001,Top-Up,,,TOPUP-SEP,5000,Confirmed,Official Invoice
+2026-08-31,TX-24992,Top-Up,,,OPENING,10000,Confirmed,Opening Balance
