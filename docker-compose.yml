@@ -1,0 +1,15 @@
+services:
+  pulsifi-credit-platform:
+    build: .
+    container_name: pulsifi-credit-mvp
+    ports:
+      - "8000:8000"
+    environment:
+      - PULSIFI_DB_PATH=/app/data/pulsifi_credit_mvp.db
+      - PULSIFI_PII_HMAC_SECRET=${PULSIFI_PII_HMAC_SECRET:-change-me-in-production}
+    volumes:
+      - pulsifi_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  pulsifi_data:

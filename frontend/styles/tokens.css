@@ -1,0 +1,75 @@
+/* ============================================================================
+   Design System Tokens — Independent Pulsifi Credit Usage Platform (MVP)
+   Aesthetic: Modern Swiss Financial Ledger / Executive Control Plane
+   ============================================================================ */
+
+:root {
+  /* Surface & Canvas Hierarchy */
+  --bg-canvas: hsl(220, 20%, 97%);
+  --bg-surface: hsl(0, 0%, 100%);
+  --bg-subtle: hsl(218, 24%, 98%);
+  --bg-muted: hsl(216, 22%, 94%);
+  --bg-sidebar: hsl(216, 54%, 13%);
+  --bg-sidebar-hover: hsl(216, 44%, 20%);
+  --bg-sidebar-active: hsl(217, 50%, 24%);
+
+  /* Typography Ink */
+  --ink-primary: hsl(222, 47%, 11%);
+  --ink-secondary: hsl(215, 22%, 34%);
+  --ink-muted: hsl(215, 16%, 48%);
+  --ink-inverse: hsl(214, 32%, 94%);
+  --ink-inverse-muted: hsl(215, 25%, 68%);
+
+  /* Architectural Borders */
+  --border-subtle: hsl(214, 24%, 90%);
+  --border-default: hsl(214, 22%, 84%);
+  --border-strong: hsl(215, 20%, 72%);
+  --border-sidebar: hsla(214, 36%, 72%, 0.14);
+
+  /* Brand & Institutional Accents */
+  --brand-primary: hsl(221, 78%, 48%);
+  --brand-primary-hover: hsl(221, 82%, 41%);
+  --brand-soft: hsl(220, 90%, 96%);
+  --brand-ink: hsl(222, 74%, 36%);
+
+  /* Strict §16 Semantic Financial Health Palette */
+  --green-bg: hsl(156, 64%, 94%);
+  --green-border: hsl(156, 48%, 78%);
+  --green-ink: hsl(160, 84%, 24%);
+  --green-bar: hsl(160, 74%, 36%);
+
+  --yellow-bg: hsl(43, 96%, 92%);
+  --yellow-border: hsl(40, 82%, 72%);
+  --yellow-ink: hsl(34, 88%, 28%);
+  --yellow-bar: hsl(38, 92%, 44%);
+
+  --orange-bg: hsl(24, 96%, 93%);
+  --orange-border: hsl(24, 84%, 74%);
+  --orange-ink: hsl(20, 84%, 34%);
+  --orange-bar: hsl(22, 88%, 48%);
+
+  --red-bg: hsl(352, 86%, 94%);
+  --red-border: hsl(352, 70%, 80%);
+  --red-ink: hsl(348, 78%, 38%);
+  --red-bar: hsl(350, 76%, 48%);
+
+  --slate-bg: hsl(215, 22%, 93%);
+  --slate-ink: hsl(215, 24%, 34%);
+
+  /* Elevation & Depth */
+  --shadow-xs: 0 1px 2px rgba(15, 23, 42, 0.04);
+  --shadow-sm: 0 2px 6px rgba(15, 23, 42, 0.05), 0 1px 2px rgba(15, 23, 42, 0.03);
+  --shadow-md: 0 10px 26px rgba(15, 23, 42, 0.08), 0 2px 6px rgba(15, 23, 42, 0.04);
+  --shadow-lg: 0 24px 56px rgba(15, 23, 42, 0.22);
+
+  /* Typography */
+  --font-sans: "Inter", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+
+  /* Geometry */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --sidebar-width: 262px;
+  --transition-fast: 140ms cubic-bezier(0.2, 0, 0, 1);
+}

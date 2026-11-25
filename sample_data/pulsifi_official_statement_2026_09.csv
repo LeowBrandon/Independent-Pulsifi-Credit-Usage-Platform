@@ -1,0 +1,49 @@
+Row Type,Assessment ID,Candidate Email,Date,Assessment Type,Units,Campaign
+Opening,OPENING-2026-09,,2026-09-01,,690,
+Top-Up,INV-PUL-2026-09,,2026-09-01,,1000,
+Usage,P-10261,aisha.tan@candidate.example,2026-09-02,Cognitive,5,ABC-GRAD
+Usage,P-10262,bryan.lim@candidate.example,2026-09-02,Cognitive,5,ABC-GRAD
+Usage,P-10263,chloe.ng@candidate.example,2026-09-03,Personality,5,ABC-GRAD
+Usage,P-10264,daniel.koh@candidate.example,2026-09-03,Leadership,10,ABC-GRAD
+Usage,P-10265,evelyn.wong@candidate.example,2026-09-04,Leadership,10,ABC-GRAD
+Usage,P-10266,farid.hassan@candidate.example,2026-09-04,Sales Aptitude,5,ABC-SALES
+Usage,P-10267,grace.chen@candidate.example,2026-09-05,Leadership,10,ABC-SALES
+Usage,P-10268,hannah.lee@candidate.example,2026-09-06,Executive Suite,15,ABC-GRAD
+Usage,,ivan.chua@candidate.example,2026-09-07,Leadership,10,ABC-GRAD
+Usage,P-10270,jasmine.goh@candidate.example,2026-09-08,Leadership,10,ABC-SALES
+Usage,P-10271,kevin.ong@candidate.example,2026-09-09,Leadership,10,ABC-GRAD
+Usage,P-10272,liwei.teoh@candidate.example,2026-09-10,Leadership,10,ABC-GRAD
+Usage,P-10273,maya.rajan@candidate.example,2026-09-11,Personality,5,ABC-SALES
+Usage,P-10291,nathan.low@candidate.example,2026-09-12,Cognitive,5,ABC-GRAD
+Usage,P-10294,olivia.yeo@candidate.example,2026-09-12,Cognitive,5,ABC-GRAD
+Usage,P-10296,priya.nair@candidate.example,2026-09-13,Leadership,10,ABC-SALES
+Usage,P-10274,quentin.ho@candidate.example,2026-09-02,Leadership,10,XYZ-LEAD
+Usage,P-10275,rachel.sim@candidate.example,2026-09-03,Leadership,10,XYZ-LEAD
+Usage,P-10276,samuel.wee@candidate.example,2026-09-04,Executive Suite,15,XYZ-LEAD
+Usage,P-10277,tessa.chia@candidate.example,2026-09-05,Leadership,10,XYZ-LEAD
+Usage,,umar.malik@candidate.example,2026-09-06,Cognitive,5,XYZ-LEAD
+Usage,P-10279,valerie.fong@candidate.example,2026-09-08,Leadership,10,XYZ-LEAD
+Usage,P-10280,wayne.teo@candidate.example,2026-09-09,Leadership,10,XYZ-LEAD
+Usage,,xin.zhao@candidate.example,2026-09-11,Personality,5,XYZ-LEAD
+Usage,P-10292,yasmin.ali@candidate.example,2026-09-12,Leadership,10,XYZ-LEAD
+Usage,P-10298,zachary.kwan@candidate.example,2026-09-14,Leadership,10,XYZ-LEAD
+Usage,P-10282,adrian.yap@candidate.example,2026-09-03,Leadership,10,ACME-MGR
+Usage,P-10283,bella.soh@candidate.example,2026-09-05,Leadership,10,ACME-MGR
+Usage,P-10284,calvin.seet@candidate.example,2026-09-07,Executive Suite,15,ACME-MGR
+Usage,P-10285,diana.pang@candidate.example,2026-09-09,Cognitive,5,ACME-MGR
+Usage,,edwin.liew@candidate.example,2026-09-11,Leadership,10,ACME-MGR
+Usage,P-10287,fiona.tay@candidate.example,2026-09-13,Personality,5,ACME-MGR
+Usage,P-10288,gavin.loh@candidate.example,2026-09-04,Executive Suite,15,PALPHA-EXEC
+Usage,P-10289,helen.choo@candidate.example,2026-09-06,Executive Suite,15,PALPHA-EXEC
+Usage,P-10290,ian.mok@candidate.example,2026-09-09,Executive Suite,15,PALPHA-EXEC
+Usage,P-10299,joanne.ang@candidate.example,2026-09-13,Executive Suite,15,PALPHA-EXEC
+Usage,,kenneth.foo@candidate.example,2026-09-15,Cognitive,5,PALPHA-EXEC
+Usage,P-10301,leonard.neo@candidate.example,2026-09-05,Leadership,10,PBETA-TECH
+Usage,P-10302,melissa.khor@candidate.example,2026-09-08,Leadership,10,PBETA-TECH
+Usage,P-10303,nicholas.toh@candidate.example,2026-09-11,Leadership,10,PBETA-TECH
+Usage,P-10304,paulina.see@candidate.example,2026-09-14,Leadership,10,PBETA-TECH
+Usage,P-10307,raymond.gan@candidate.example,2026-09-07,Executive Suite,15,PGAMMA-OPS
+Usage,P-10308,sharon.lau@candidate.example,2026-09-12,Leadership,10,PGAMMA-OPS
+Usage,P-10311,wendy.quek@candidate.example,2026-09-15,Leadership,10,XYZ-LEAD
+Usage,P-10312,xander.cho@candidate.example,2026-09-16,Leadership,10,ABC-GRAD
+Usage,P-10313,yvonne.heng@candidate.example,2026-09-17,Leadership,10,ACME-MGR
